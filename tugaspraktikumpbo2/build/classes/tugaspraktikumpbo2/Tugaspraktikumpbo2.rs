@@ -1,0 +1,4 @@
+tugaspraktikumpbo2.Persegi
+tugaspraktikumpbo2.Segitiga
+tugaspraktikumpbo2.Tugaspraktikumpbo2
+tugaspraktikumpbo2.Lingkaran
